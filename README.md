@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @patricibal
-- 👀 I’m interested in art
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on my website
+- 👀 I’m interested in software testing
+- 🌱 I’m currently learning software testing
 - 📫 How to reach me officialpatricija@yahoo.com
 
 <!---
