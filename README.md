@@ -8,7 +8,7 @@
 
 📚 Forever curious, always studying, and passionately learning 🧠
 
-💻 Currently adding Python to my arsenal of skills! 🚀
+🐍 Currently adding Python to my arsenal of skills! 🚀
 
 💻 Github: PatriciBal
 
